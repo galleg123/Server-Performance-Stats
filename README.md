@@ -7,3 +7,7 @@ When run it will output:
 * Disk space, total (Byte), used(Byte & %), free(Byte & %)
 * Top 5 CPU using processes
 * Top 5 MEMORY using processes
+
+
+## For the roadmap project
+https://roadmap.sh/projects/server-stats
